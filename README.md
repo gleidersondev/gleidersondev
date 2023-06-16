@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![snake animation](https://github.com/gleidersondev/gleidersondev/blob/output/github-contribution-grid-snake2.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gleidersondev/gleidersondev/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
   
 </div>
 
