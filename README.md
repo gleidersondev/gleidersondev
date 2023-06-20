@@ -11,15 +11,18 @@
 </div>
 
 <div align="center">
-
+<br>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gleidersondev/gleidersondev/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-  
+<br>
 </div>
 
+<div align="center"><br>
 
 ## My skills
 
-<div style="display: inline_block"><br>
+</div>
+
+<div align="center">
   <img align="center" alt="gle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" alt="gle-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,14 +31,19 @@
   <img align="center" alt="gle-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
+<div align="center"><br>
+
 ## Tools
 
-<div style="display: inline_block"><br>
+</div>
+
+<div align="center">
   <img align="center" alt="gle-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="gle-Linux" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
   <img align="center" alt="gle-Vs" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="gle-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
