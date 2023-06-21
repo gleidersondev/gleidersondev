@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
   <img align="center" alt="Vs" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -47,4 +47,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
