@@ -1,4 +1,4 @@
-# Nome da Actions:  
+# Nome da Actions:
 name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
@@ -44,3 +44,10 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set output variables
+        run: echo ::set-env name=BUILD_STATUS::success
+        
+      - name: Check outputs
+        run: |
+          echo "Build status is $BUILD_STATUS"
