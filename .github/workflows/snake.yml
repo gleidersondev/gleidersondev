@@ -37,20 +37,8 @@ jobs:
           branch: master
           force: true
 
-      # Escreve a variável de ambiente BUILD_STATUS no arquivo GITHUB_STATE.
-      - name: Set environment variable
+      - name: Write state file
         run: echo "BUILD_STATUS=success" >> $GITHUB_STATE
 
-      # Escreve os arquivos gerados nos diretórios de saída.
-      - name: Write output files
-        run: |
-          echo "snake-gif=$snake-gif" >> $GITHUB_OUTPUT
-          echo "snake-gif-svg=$snake-gif-svg" >> $GITHUB_OUTPUT
-
-      # Usa a action crazy-max/ghaction-github-pages para fazer o deploy dos arquivos gerados para o branch output.
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.7.2
-        with:
-          build_dir: dist
-          branch: output
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Write output file
+        run: echo "OUTPUT_VAR=value" >> $GITHUB_ENV
