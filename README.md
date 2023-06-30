@@ -27,30 +27,25 @@
 <br>
 </div>
 
-
-<div align="center"><br>
-
-## My skills
-
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <br>
-</div>
-
-<div align="center"><br>
-
-## Tools
-
-  <img align="center" alt="Github" height="30" width="40" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Vs" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg">
-  <br>
+<div align="center">
+	<table>
+<thead>
+<tr>
+<th>My Skills</th>
+<th>Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+	<div><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="node" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"><img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></div>
+</td>
+<td>
+	<div><img align="center" alt="Github" height="30" width="40" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"><img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg"><img align="center" alt="Vs" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"><img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg"></div>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 
 
