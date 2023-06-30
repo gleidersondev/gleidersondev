@@ -5,13 +5,21 @@
 ##
 
 <div align="center">
+<br>
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gleidersondev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gleiderson David github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleidersondev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center">
-<br>
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gleidersondev/gleidersondev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gleidersondev/gleidersondev/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gleidersondev/gleidersondev/output/github-snake.svg">
+</picture>
 
 <br>
 </div>
