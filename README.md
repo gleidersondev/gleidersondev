@@ -64,4 +64,18 @@
 </div>
 
 
+<div align="center"><br>
+
+  ## Views and Followers ❤ 
+  
+</div>
+
+<div align="center">
+	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=gleidersondev">
+	</a>
+	<a href="https://github.com/gleidersondev?tab=followers"><img src="https://img.shields.io/github/followers/gleidersondev?label=Followers&style=social" 			alt="GitHub Badge"></a>
+</div> 
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
