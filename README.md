@@ -27,8 +27,11 @@
 <br>
 </div>
 
-<div align="center">
-	<table>
+##
+
+<div align="center"><br>
+	
+<table>
 <thead>
 <tr>
 <th>My Skills</th>
